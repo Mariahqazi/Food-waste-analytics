@@ -51,7 +51,7 @@ To analyze food wastage patterns, identify high-waste categories and locations, 
 ---
 
 ### 🖼️ **Screenshots**
-![Dashboard](screenshot/Food_Waste_Analytics_Dashboard.png)
+![Dashboard](Screenshot/Food_Waste_Analytics_Dashboard.png)
 
 ---
 
